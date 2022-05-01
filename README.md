@@ -1,2 +1,61 @@
 # DevOps_Readme
 Base file to hold all screenshots for the DevOps on AWS blogpost
+
+![image](https://user-images.githubusercontent.com/28874545/166156413-75d5d1f9-d79d-4051-99dd-9c73cd20601d.png)
+
+Create repo
+
+![image](https://user-images.githubusercontent.com/28874545/166156597-46d3d06d-dbb2-49f0-9a55-8c53838feebe.png)
+
+Push Commands
+![image](https://user-images.githubusercontent.com/28874545/166156715-39018f0b-65ec-41f1-ade9-1cd09cf1cc22.png)
+
+![image](https://user-images.githubusercontent.com/28874545/166156818-327d426d-a690-49a5-93cf-bd27c0af5907.png)
+
+
+Creating cluster
+
+![image](https://user-images.githubusercontent.com/28874545/166157117-5e51b5cc-658e-48ae-b807-cca2b991bf76.png)
+
+Task definition
+
+
+![image](https://user-images.githubusercontent.com/28874545/166157309-f4608340-27b5-491d-83b7-40462fec9ca8.png)
+
+ECR screenshot
+
+![image](https://user-images.githubusercontent.com/28874545/166157388-7fe33fb0-b5c4-4dc5-8b87-c573319e0f53.png)
+
+Environment
+
+![image](https://user-images.githubusercontent.com/28874545/166157459-5c17dd33-6cb8-49e1-85fd-86e3ccd4dfc7.png)
+
+
+Run the task
+
+![image](https://user-images.githubusercontent.com/28874545/166157555-b0f06a36-a3d7-44da-bb1a-60677034d0d0.png)
+
+
+![image](https://user-images.githubusercontent.com/28874545/166157616-053ee8b1-41b0-43ee-a609-adc2a4eb14a2.png)
+
+![image](https://user-images.githubusercontent.com/28874545/166157671-5d6b25e7-858e-4c5a-b0eb-e61dfe521a77.png)
+
+![image](https://user-images.githubusercontent.com/28874545/166157869-0d152b0a-8a11-434a-8984-55d230790c7b.png)
+ENI
+![image](https://user-images.githubusercontent.com/28874545/166157970-249023fa-900a-4432-a46b-7226e2dc4680.png)
+
+
+![image](https://user-images.githubusercontent.com/28874545/166158122-7239a5d4-b1cd-41d9-8686-9117599a7b31.png)
+
+![image](https://user-images.githubusercontent.com/28874545/166158195-963be55c-d609-4f4d-8a45-8fcba4e083bf.png)
+
+Final Image
+
+![image](https://user-images.githubusercontent.com/28874545/166158258-05d1488a-c735-43e9-8a61-e5188dcce687.png)
+
+
+
+
+
+
+
