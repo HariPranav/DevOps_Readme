@@ -1,6 +1,10 @@
 # DevOps_Readme
 Base file to hold all screenshots for the DevOps on AWS blogpost
 
+Folder Struct
+![image](https://user-images.githubusercontent.com/28874545/166158371-56af212b-5d56-4498-b833-de7358287de1.png)
+
+
 ![image](https://user-images.githubusercontent.com/28874545/166156413-75d5d1f9-d79d-4051-99dd-9c73cd20601d.png)
 
 Create repo
