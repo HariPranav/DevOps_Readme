@@ -58,6 +58,29 @@ Final Image
 ![image](https://user-images.githubusercontent.com/28874545/166158258-05d1488a-c735-43e9-8a61-e5188dcce687.png)
 
 
+DevOps:
+
+Code Commit
+
+![image](https://user-images.githubusercontent.com/28874545/166207560-3cc886c1-d3af-47df-8900-e04e4092e0a3.png)
+
+![image](https://user-images.githubusercontent.com/28874545/166207923-4b408bb7-5710-4fe3-af0d-2073a60751d3.png)
+
+
+![image](https://user-images.githubusercontent.com/28874545/166219011-2809bb37-52cd-401f-8c1a-c8cdacc5acbd.png)
+
+Choose Pipeline
+
+![image](https://user-images.githubusercontent.com/28874545/166220689-93dbea15-c080-40a8-949a-89659ede2a98.png)
+
+Choose Source
+
+![image](https://user-images.githubusercontent.com/28874545/166220639-a5a874bd-2ac1-4872-8418-6b829b8e1620.png)
+
+
+
+
+
 
 
 
