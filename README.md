@@ -16,6 +16,13 @@ Push Commands
 
 ![image](https://user-images.githubusercontent.com/28874545/166156818-327d426d-a690-49a5-93cf-bd27c0af5907.png)
 
+Load Balancer:
+![image](https://user-images.githubusercontent.com/28874545/168069807-ca8183ac-031f-492a-b746-f3af741270b8.png)
+
+Make sure to shift to the OLD AWS CONSOLE while doing this step as it will help to follow with the same steps as shown below.
+
+![image](https://user-images.githubusercontent.com/28874545/168070929-81d61586-7a0f-431f-9522-6b157a96f86b.png)
+
 
 Creating cluster
 
