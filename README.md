@@ -23,6 +23,29 @@ Make sure to shift to the OLD AWS CONSOLE while doing this step as it will help 
 
 ![image](https://user-images.githubusercontent.com/28874545/168070929-81d61586-7a0f-431f-9522-6b157a96f86b.png)
 
+![image](https://user-images.githubusercontent.com/28874545/169034353-9ec32f8e-52f1-4b3c-91d9-82567a751e66.png)
+
+![image](https://user-images.githubusercontent.com/28874545/169034491-b28126b8-95f1-40b7-96bc-1e9de4574665.png)
+
+Fargate Service
+
+![image](https://user-images.githubusercontent.com/28874545/169035450-c9666d41-07e5-46cf-b898-30bace419d02.png)
+
+Choose Fargate as launch type, give it a name, do not change the Deployment type (Rolling update), and click Next.
+
+![image](https://user-images.githubusercontent.com/28874545/169035677-85b0e741-fe30-4805-9c27-276f4942382f.png)
+
+![image](https://user-images.githubusercontent.com/28874545/169035851-d2a6bae6-267f-47d6-9ecc-2e0ca71aa124.png)
+
+![image](https://user-images.githubusercontent.com/28874545/169036079-e6de31dd-f567-46a0-8b47-0f037c49840b.png)
+
+![image](https://user-images.githubusercontent.com/28874545/169037040-4ed651b1-712a-4797-bf66-153e42804fe6.png)
+
+![image](https://user-images.githubusercontent.com/28874545/169038163-4f6b0078-275e-40fa-8c0c-8274a39ed336.png)
+
+![image](https://user-images.githubusercontent.com/28874545/169038453-6e4157ba-d707-409d-aaec-5824520e1251.png)
+
+![image](https://user-images.githubusercontent.com/28874545/169038800-8e60281c-27c7-4e8d-b5cc-717e716e04b5.png)
 
 Creating cluster
 
