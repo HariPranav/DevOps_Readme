@@ -27,6 +27,10 @@ Make sure to shift to the OLD AWS CONSOLE while doing this step as it will help 
 
 ![image](https://user-images.githubusercontent.com/28874545/169034491-b28126b8-95f1-40b7-96bc-1e9de4574665.png)
 
+![image](https://user-images.githubusercontent.com/28874545/169111085-c0bb3ba7-56ea-4ccf-8a9d-ebe5a2792734.png)
+
+
+
 Fargate Service
 
 ![image](https://user-images.githubusercontent.com/28874545/169035450-c9666d41-07e5-46cf-b898-30bace419d02.png)
@@ -88,6 +92,12 @@ Final Image
 ![image](https://user-images.githubusercontent.com/28874545/166158258-05d1488a-c735-43e9-8a61-e5188dcce687.png)
 
 
+Git:
+
+![image](https://user-images.githubusercontent.com/28874545/169132983-5eaf5efc-176b-41bb-9d99-063bb4e00a38.png)
+
+
+
 DevOps:
 
 Code Commit
@@ -106,6 +116,10 @@ Choose Pipeline
 Choose Source
 
 ![image](https://user-images.githubusercontent.com/28874545/166220639-a5a874bd-2ac1-4872-8418-6b829b8e1620.png)
+
+
+![image](https://user-images.githubusercontent.com/28874545/169141116-2148dd1a-282c-48b4-835d-52b2df6950ea.png)
+
 
 
 
