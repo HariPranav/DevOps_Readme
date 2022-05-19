@@ -120,6 +120,12 @@ Choose Source
 
 ![image](https://user-images.githubusercontent.com/28874545/169141116-2148dd1a-282c-48b4-835d-52b2df6950ea.png)
 
+Code Pipeline
+
+
+Build spec file
+
+![image](https://user-images.githubusercontent.com/28874545/169280328-7df73c84-3de3-45c7-b042-295379a40520.png)
 
 
 
